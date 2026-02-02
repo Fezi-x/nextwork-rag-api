@@ -111,13 +111,3 @@ I queried my API using a POST request, which sends data in the request body. The
 Swagger UI is an interactive API documentation interface. I used it to test my RAG API by sending requests to the /query endpoint. The best part about using Swagger UI was being able to test the API directly from the browser without writing any client code.
 
 ---
-
-## Adding Dynamic Content
-
-### Adding the /add endpoint
-
-### Dynamic content endpoint working
-
----
-
----
